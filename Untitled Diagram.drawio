@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T17:46:39.772Z" agent="5.0 (Windows)" version="18.0.6" etag="-LagEQ80tEyrEo-BGpDB" type="github"><diagram id="ZuXs-BB3B0BnifuogXFc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-17T18:09:28.835Z" agent="5.0 (Windows)" etag="03gO0108xho9OdbPSMzQ" version="18.0.6" type="github">
+  <diagram id="ZuXs-BB3B0BnifuogXFc" name="Page-1">
+    <mxGraphModel dx="1342" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Procurador&#xa;" B_DESCRIPTION="Procurador vai selecionar várias operações em tela Exemplo: " placeholders="1" id="NKhGm1_m64sRj1SnyYaB-1">
+          <mxCell style="shape=stencil(tZTRUsMgEEW/hsdmCNimr06s/4Fka3aSQAZwWv16STYZRaXjaDuTl3sXTu6SJUzWvlUjMMGNGoDJBybEoDRCJ3fbjb7bjOC8NdGNS1qql3tO+kRa8EUrP4IOZB7xDA3ZPjjbwQmbsADQtOAwTFV5YPw+rpkeWWtrTCSgNT6pfKpHmEIT9/IzwXixpde8LppUzI0DBHBLZnKZePw9OMUW1bXA5a3AvBDpWZTXI98MXP2DLOvo5IZG1k9Kd8/OvpjmxzxzxU0Tm/nmVWbO13tQrnPvtMe35fZIcfkUjtj3dCNyDWVix63WwYV+oO9x9PDRze7LCCfd7NNmVvn32N/SzS79XmbjHQ==);whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;arcSize=30;allowArrows=0;rotatable=0;spacingTop=70;aspect=fixed;editable=1;metaEdit=1;resizable=0;strokeColor=#06315C;fillColor=#083F75;recursiveResize=0;expand=0;" vertex="1" parent="1">
+            <mxGeometry x="320" y="10" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="SAJ5" B_DESCRIPTION="Servidor do SAJ5 onde esta expostos os endpoints para executar as regras de negócios existentes" id="NKhGm1_m64sRj1SnyYaB-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" vertex="1" parent="1">
+            <mxGeometry x="540" y="220" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="SAJ NI" B_DESCRIPTION="Interface Web do novo SAJ onde o procurador seleciona as operações a ser executadas" id="NKhGm1_m64sRj1SnyYaB-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="210" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Fila de notificação" B_TECHNOLOGY="RabbitMQ" C_DESCRIPTION="O SAJ5 irá postar uma notificação após cada operação do lote finalizada." placeholders="1" id="NKhGm1_m64sRj1SnyYaB-5">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=0;size=15;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;strokeColor=#0E7DAD;rounded=1;fillColor=#23A2D9;arcSize=6;rotation=90;textDirection=ltr;verticalAlign=middle;horizontal=0;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="430" y="370" width="120" height="240" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Backend SAJ NI" B_TECHNOLOGY=".Net Core" C_DESCRIPTION="Microservice responsável por consumir as notificações de decidir como enviar para o frontend do SAJ NI" id="NKhGm1_m64sRj1SnyYaB-6">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;strokeColor=#0E7DAD;gradientColor=none;size=48.95238095238096;rounded=1;fillColor=#23A2D9;arcSize=18;allowArrows=0;connectable=1;expand=0;recursiveResize=0;metaEdit=1;editable=1;rotatable=0;spacing=10;resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="40" y="370" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
